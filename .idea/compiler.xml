@@ -8,18 +8,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="maven_dao1" />
         <module name="springMVC_SSM" />
+        <module name="springMVC_SSM3" />
+        <module name="maven_pojo3" />
         <module name="springMVC_024_SSM" />
         <module name="maven_dao" />
         <module name="maven_pojo1" />
+        <module name="maven_dao3" />
         <module name="springMVC_SSM1" />
         <module name="maven_pojo" />
-        <module name="maven_parent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo1" target="1.8" />
+      <module name="maven_dao1 (1)" target="1.8" />
+      <module name="maven_parent (1)" target="1.5" />
       <module name="maven_pojo (1)" target="1.8" />
+      <module name="maven_pojo1 (1)" target="1.8" />
       <module name="springMVC_024_SSM (1)" target="1.6" />
+      <module name="springMVC_SSM1 (1)" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

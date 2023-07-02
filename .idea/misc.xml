@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/demo1/springMVC_SSM" />
     <file type="web" url="file://$PROJECT_DIR$/demo2/springMVC_SSM1" />
+    <file type="web" url="file://$PROJECT_DIR$/demo3/springMVC_SSM3" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_024_SSM" />
   </component>
   <component name="MavenProjectsManager">
@@ -17,7 +18,18 @@
         <option value="$PROJECT_DIR$/demo2/maven_dao1/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/springMVC_SSM1/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/maven_dao3/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/maven_parent3/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/maven_pojo3/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo3/maven_dao1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/maven_pojo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/springMVC_SSM1/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="jdk-1.8" project-jdk-type="JavaSDK">

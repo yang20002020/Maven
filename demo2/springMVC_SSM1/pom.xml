@@ -12,13 +12,13 @@
 <!--    依赖domain运行-->
     <dependency>
         <groupId>com.fuyu</groupId>
-        <artifactId>maven_pojo1</artifactId>
+        <artifactId>maven_pojo3</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
 <!--      依赖 dao坐标-->
       <dependency>
           <groupId>com.fuyu</groupId>
-          <artifactId>maven_dao1</artifactId>
+          <artifactId>maven_dao3</artifactId>
           <version>1.0-SNAPSHOT</version>
       </dependency>
     <dependency>
