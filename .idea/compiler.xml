@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven_dao1" />
-        <module name="springMVC_SSM" />
+        <module name="maven_pojo4" />
+        <module name="maven_dao4" />
+        <module name="springMVC_SSM4" />
         <module name="springMVC_SSM3" />
         <module name="maven_pojo3" />
         <module name="springMVC_024_SSM" />
-        <module name="maven_dao" />
         <module name="maven_pojo1" />
         <module name="maven_dao3" />
         <module name="springMVC_SSM1" />
         <module name="maven_pojo" />
+        <module name="springMVC_SSM" />
+        <module name="maven_dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
