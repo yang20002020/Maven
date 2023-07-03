@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="maven_dao1" />
         <module name="maven_pojo4" />
+        <module name="maven_04_dao" />
         <module name="maven_dao4" />
         <module name="springMVC_SSM4" />
         <module name="springMVC_SSM3" />
@@ -15,20 +16,30 @@
         <module name="springMVC_024_SSM" />
         <module name="maven_pojo1" />
         <module name="maven_dao3" />
+        <module name="maven_02_ssm" />
         <module name="springMVC_SSM1" />
         <module name="maven_pojo" />
         <module name="springMVC_SSM" />
         <module name="maven_dao" />
+        <module name="maven_03_pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo1" target="1.8" />
       <module name="maven_dao1 (1)" target="1.8" />
+      <module name="maven_dao4 (1)" target="1.8" />
+      <module name="maven_dao5" target="1.8" />
       <module name="maven_parent (1)" target="1.5" />
+      <module name="maven_parent4 (1)" target="1.5" />
+      <module name="maven_parent5" target="1.5" />
       <module name="maven_pojo (1)" target="1.8" />
       <module name="maven_pojo1 (1)" target="1.8" />
+      <module name="maven_pojo4 (1)" target="1.8" />
+      <module name="maven_pojo5" target="1.8" />
       <module name="springMVC_024_SSM (1)" target="1.6" />
       <module name="springMVC_SSM1 (1)" target="1.6" />
+      <module name="springMVC_SSM4 (1)" target="1.6" />
+      <module name="springMVC_SSM5" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

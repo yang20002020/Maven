@@ -6,6 +6,8 @@
     <file type="web" url="file://$PROJECT_DIR$/demo2/springMVC_SSM1" />
     <file type="web" url="file://$PROJECT_DIR$/demo3/springMVC_SSM3" />
     <file type="web" url="file://$PROJECT_DIR$/demo4/springMVC_SSM4" />
+    <file type="web" url="file://$PROJECT_DIR$/demo5/maven_02_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/demo5/springMVC_SSM5" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_024_SSM" />
   </component>
   <component name="MavenProjectsManager">
@@ -26,6 +28,11 @@
         <option value="$PROJECT_DIR$/demo4/maven_dao4/pom.xml" />
         <option value="$PROJECT_DIR$/demo4/maven_parent4/pom.xml" />
         <option value="$PROJECT_DIR$/demo4/springMVC_SSM4/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5/maven_parent5/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5/maven_01_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5/maven_03_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5/maven_04_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5/maven_02_ssm/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
